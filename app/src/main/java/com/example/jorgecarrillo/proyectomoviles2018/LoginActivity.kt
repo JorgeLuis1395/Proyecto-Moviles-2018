@@ -12,7 +12,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
         buttonInicio.setOnClickListener{v: View? ->  irTraductor()}
-        buttonResetoContraseña.setOnClickListener{v: View? ->  }
+        buttonResetoContraseña.setOnClickListener{v: View? -> irReseteoContraseña()  }
     }
     fun irTraductor(){
         val intent = Intent(this, TraductorActivity::class.java)

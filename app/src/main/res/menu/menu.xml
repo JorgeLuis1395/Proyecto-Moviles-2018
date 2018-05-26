@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/usuario"
+        android:title="Usuario">
+        <!-- "file" submenu -->
+        <menu>
+            <item
+                android:id="@+id/infoUsuario"
+                android:title="Informacion Usuario" />
+            <item
+                android:id="@+id/historial"
+                android:title="Historial Traducciones" />
+            <item
+                android:id="@+id/sesion"
+                android:title="Cerrar Sesion" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/InformacionAPP"
+        android:icon="@drawable/logo"
+        android:title="Informacion" />
+
+
+</menu>
