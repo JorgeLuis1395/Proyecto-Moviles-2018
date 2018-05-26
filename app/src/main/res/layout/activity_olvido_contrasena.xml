@@ -27,7 +27,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="40dp"
-        android:text="Para resetear tu contraseña ingresa por favor tu Correo Electronico"
+        android:text="Para restaurar tu contraseña ingresa por favor tu Correo Electrónico"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"

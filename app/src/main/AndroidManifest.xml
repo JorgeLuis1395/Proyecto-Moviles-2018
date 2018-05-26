@@ -22,7 +22,8 @@
             android:label="@string/title_activity_traductor"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".RegistroActivity" />
-        <activity android:name=".OlvidoContrasenaActivity"></activity>
+        <activity android:name=".OlvidoContrasenaActivity" />
+        <activity android:name=".InfoActivity"></activity>
     </application>
 
 </manifest>
