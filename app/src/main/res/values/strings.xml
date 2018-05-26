@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TraductorMoviles</string>
+    <string name="app_name">Proyecto Moviles 2018</string>
+    <string name="title_activity_traductor">TraductorActivity</string>
 </resources>

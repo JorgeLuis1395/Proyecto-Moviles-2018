@@ -1,12 +1,12 @@
-package com.example.jorgecarrillo.traductormoviles
+package com.example.jorgecarrillo.proyectomoviles2018
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivityTraductor : AppCompatActivity() {
+class OlvidoContrasenaActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main_traductor)
+        setContentView(R.layout.activity_olvido_contrasena)
     }
 }

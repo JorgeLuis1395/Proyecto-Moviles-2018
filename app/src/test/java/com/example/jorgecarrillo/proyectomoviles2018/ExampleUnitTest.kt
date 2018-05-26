@@ -1,4 +1,4 @@
-package com.example.jorgecarrillo.traductormoviles
+package com.example.jorgecarrillo.proyectomoviles2018
 
 import org.junit.Test
 
